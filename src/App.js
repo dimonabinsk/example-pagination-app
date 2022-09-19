@@ -4,7 +4,7 @@ import EpisodesList from "./components/episodesList";
 
 function App() {
   return (
-    <div>
+    <div className=" mt-4">
       <EpisodesList/>
     </div>
   );
